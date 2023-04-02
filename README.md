@@ -1,5 +1,5 @@
 
-NBA Player Similarity Finder is a Python application that helps users find the three most similar NBA players to a given player based on historical and current basketball statistics. 
+NBA Player Similarity Generator is a Python application that helps users find the three most similar NBA players to a given player based on historical and current basketball statistics. 
 
 The application utilizes the NBA API for real-time player statistics and implements machine learning techniques for accurate player comparisons.
 
