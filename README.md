@@ -11,11 +11,10 @@ Features:
 
 - Offers an intuitive Tkinter GUI for user interaction
 
-- Provides dynamic resizing functionality and case-insensitive search for an enhanced user experience
+- Provides case-insensitive search for an enhanced user experience
 
 Installation
 
-- Before running the application, ensure that you have Python installed. 
 - Install the required packages (pandas, numpy, scikit-learn, nba_api, tkinter)
 
 Enter the name of an NBA player in the input field and click the "Find Similar Players" button to see the three most similar players based on their basketball statistics.
