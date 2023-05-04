@@ -18,3 +18,7 @@ Installation
 - Install the required packages (pandas, numpy, scikit-learn, nba_api, tkinter)
 
 Enter the name of an NBA player in the input field and click the "Find Similar Players" button to see the three most similar players based on their basketball statistics.
+
+Example:
+
+![Screenshot 2023-05-03 at 9 06 45 PM](https://user-images.githubusercontent.com/110676356/236084463-4e0fac69-b6ff-4d29-ac1f-53f7d78cab5b.png)
